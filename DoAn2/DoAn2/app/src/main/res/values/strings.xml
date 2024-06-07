@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoAn</string>
+    <string name="default_web_client_id">307368414187-d42llhhu095rnnr2e7cetoogflblstrr.apps.googleusercontent.com</string>
+    <color name="blue_200">#80E53B17</color>
+    <color name="green">#02AF4E</color>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
